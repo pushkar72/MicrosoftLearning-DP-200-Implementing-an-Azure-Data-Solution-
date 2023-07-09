@@ -33,9 +33,9 @@ Perform the following tasks to prepare your environment for the labs.
 2. In Azure Cloud Shell, run the following commands to download the required course files. This may take a few minutes.
 
     ```
-    mkdir c:\dp-203
+    mkdir dp-203
 
-    cd c:\dp-203
+    cd dp-203
 
     git clone https://github.com/microsoftlearning/dp-203-data-engineer.git data-engineering-ilt-deployment
     ```
@@ -45,7 +45,7 @@ Perform the following tasks to prepare your environment for the labs.
 4. In Azure Cloud Shell, use the following command to change directories to the folder containing the automation scripts.
 
     ```
-    cd C:\dp-203\data-engineering-ilt-deployment\Allfiles\00\artifacts\environment-setup\automation\
+    cd .\data-engineering-ilt-deployment\Allfiles\00\artifacts\environment-setup\automation\
     ```
     
 5. In Azure Cloud Shelll, enter the following command to run the setup script:
